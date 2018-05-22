@@ -1,0 +1,5 @@
+const USER_KEY_PRESS = 'USER_KEY_PRESS'
+
+export {
+  USER_KEY_PRESS
+}
